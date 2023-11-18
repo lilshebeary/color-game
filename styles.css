@@ -1,0 +1,81 @@
+body {
+    font-family: 'Marhey', sans-serif;
+    font-size: 2rem;
+    padding-top: 8rem;
+}
+h3{
+   
+    font-size: 4rem;
+}
+
+button {
+    background-color: rgba(158, 91, 221, 0.507);
+    border: 2px solid rgb(212, 0, 255);
+    border-radius: 5px;
+    font-size: 2rem;
+    padding: .15em .25em;
+}
+select{
+    font-size: 2rem;
+}
+#textarea{
+    font-size: 3rem;
+
+}
+
+#gameArea {
+    
+    background-color: azure;
+    border: 1px solid black;
+    max-width: 800px;
+    border-radius: 4px;
+    padding: 2rem;
+    box-shadow: rgb(85, 91, 255) 10px 10px 10px 3px, rgb(31, 193, 27) 0px 0px 40px 16px, rgb(255, 217, 19) 0px -20px 24px 29px, rgb(255, 156, 85) 0px 0px 0px 12px, rgb(255, 85, 85) 20px 20px 101px 115px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 15px, rgba(0, 0, 0, 0.12) -24px -14px 43px, rgba(0, 0, 0, 0.12) 0px 4px 24px, rgba(0, 0, 0, 0.17) 20px 32px 13px, rgba(0, 0, 0, 0.09) 0px -34px 15px;
+}
+
+/* Changes color of the select option text to match the text*/
+.blue {
+    color:blue;
+}
+.cyan {
+    color: cyan;
+}
+.gold {
+    color: gold;
+}
+.gray {
+    color: gray;
+}
+.green {
+    color: green;
+}
+
+.magenta {
+    color: magenta;
+}
+
+.orange {
+    color: orange;
+}
+.red {
+    color: red;
+}
+
+.yellow {
+    color: yellow;
+}
+
+
+
+body {
+    background: rgb(255,0,0);
+background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(255,121,0,1) 12%, rgba(243,255,0,1) 31%, rgba(10,246,0,1) 49%, rgba(0,188,145,1) 61%, rgba(52,101,149,1) 69%, rgba(85,72,111,1) 78%, rgba(147,46,123,1) 86%);
+}
+
+select {
+    background-color: rgba(3, 5, 5, 0.082);
+    background-color: rgba(158, 91, 221, 0.507);
+    border: 2px solid rgb(212, 0, 255);
+    border-radius: 5px;
+}
